@@ -1,9 +1,4 @@
 
-## Contributing
-
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-Contributions are always welcome!
-
 ## Contents
 - [Culture](#culture)
 - [Education](#education)
