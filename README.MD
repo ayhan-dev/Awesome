@@ -1,7 +1,4 @@
 
-#### What is Site Reliability Engineering?
-> "Fundamentally, it's what happens when you ask a software engineer to design an operations function." - Ben Treynor Sloss, VP Google Engineering, founder of Google SRE
-
 ## Contributing
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
